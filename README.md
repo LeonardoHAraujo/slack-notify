@@ -1,5 +1,7 @@
 # Slack notify
 
+*Powered by Leonardo Araújo*
+
 Biblioteca para padronizar e facilitar notificações nos canais do Slack.
 
 ## Como utilizar
